@@ -1,0 +1,28 @@
+name: renewedview
+favicon: null
+layout_spectrum: 0.7862132317386568
+typography_spectrum: 0.5061930103693157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6428688566666096
+  lightness: 0.2688641590066254
+  saturation: 0.055537646636366844
+  rhythmicContrast: 0.7149773535784334
+purpose: []
